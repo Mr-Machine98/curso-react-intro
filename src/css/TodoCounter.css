@@ -1,0 +1,13 @@
+h1 {
+    font-size: 25px;
+    color: #F7F7F7;
+    text-align: center;
+    padding: 48px;
+    margin-top: 20px;
+    border-bottom: 1px solid #ACD9B2;
+}
+
+h1 span {
+    font-weight: bold;
+    color: #ACD9B2;
+}
